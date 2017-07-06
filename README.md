@@ -1,2 +1,2 @@
-##### sql-zoo
-# SQL Zoo solutions
+# sql-zoo
+## SQL Zoo solutions

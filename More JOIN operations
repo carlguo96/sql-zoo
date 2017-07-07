@@ -1,0 +1,69 @@
+## More JOIN operations
+### http://sqlzoo.net/wiki/More_JOIN_operations
+
+### 1. List the films where the yr is 1962 [Show id, title]
+```SQL
+SELECT id, title
+ FROM movie
+ WHERE yr=1962 
+```
+
+### 2. Give year of 'Citizen Kane'.
+```SQL
+SELECT yr FROM movie
+ WHERE title='Citizen Kane' 
+```
+
+
+### 1. 
+```SQL
+ 
+```
+### 1. 
+```SQL
+ 
+```
+
+
+### 1. 
+```SQL
+ 
+```
+
+
+### 1. 
+```SQL
+ 
+```
+### 1. 
+```SQL
+ 
+```
+
+
+### 1. 
+```SQL
+ 
+```
+
+
+### 1. 
+```SQL
+ 
+```
+### 1. 
+```SQL
+ 
+```
+
+
+### 1. 
+```SQL
+ 
+```
+
+
+### 1. 
+```SQL
+ 
+```

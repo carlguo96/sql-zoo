@@ -104,7 +104,7 @@ You can't put a single quote in a quote string directly. You can use two single 
  ```
        'yr'是反序
        
-  ### 14. The expression subject IN ('Chemistry','Physics') can be used as a value - it will be 0 or 1.
+### 14. The expression subject IN ('Chemistry','Physics') can be used as a value - it will be 0 or 1.
 
 Show the 1984 winners and subject ordered by subject and winner name; but list Chemistry and Physics last.
  ```SQL

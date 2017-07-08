@@ -1,6 +1,6 @@
-### . 
+### 1. How many stops are in the database.
 ```SQL
- 
+SELECT COUNT(id) FROM stops
 ```
 
 ### . 
